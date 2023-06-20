@@ -11,11 +11,11 @@ To run this project on your machine you need to install any SQL supported DBMS t
 2. Create tables using the schema diagram provided below.
 3. Import csv files provided in the <a href="https://github.com/avishek09/Pizza-Place-Sales/tree/main/dataset">dataset</a> folder.
 
-Note: If you are using PostgreSQL then restore the backup file of the <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/music_store_db_backup">database</a> and save yourself some time.
+Note: If you are using PostgreSQL then restore the backup file of the <a href="https://github.com/avishek09/Pizza-Place-Sales/blob/main/music_store_db_backup">database</a> and save yourself some time.
 
 ## Schema Diagram
 
-![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
+![Schema Diagram](https://github.com/avishek09/Pizza-Place-Sales/assets/75924699/08a724e2-490b-4e48-bc85-d9aeffea5d85)
 
 <!-- ## Usage
 
@@ -34,7 +34,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-
+This dataset was downloaded from Kaggle: 
 
 ## License
 
