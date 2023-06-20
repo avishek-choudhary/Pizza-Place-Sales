@@ -11,7 +11,7 @@ To run this project on your machine you need to install any SQL supported DBMS t
 2. Create tables using the schema diagram provided below.
 3. Import csv files provided in the <a href="https://github.com/avishek09/Pizza-Place-Sales/tree/main/dataset">dataset</a> folder.
 
-Note: If you are using PostgreSQL then restore the backup file of the <a href="https://github.com/avishek09/Pizza-Place-Sales/blob/main/music_store_db_backup">database</a> and save yourself some time.
+Note: If you are using PostgreSQL then restore the backup file of the <a href="https://github.com/avishek09/Pizza-Place-Sales/blob/main/pizza_place_db_backup">database</a> and save yourself some time.
 
 ## Schema Diagram
 
@@ -34,7 +34,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-This dataset was downloaded from Kaggle: 
+This dataset was downloaded from Maven Analytics: https://maven-datasets.s3.amazonaws.com/Pizza+Place+Sales/Pizza+Place+Sales.zip
 
 ## License
 
@@ -44,8 +44,8 @@ You can use this dataset to build your own project and practise your SQL skills.
 
 ## Badges
 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://templates.images.credential.net/16426919727079220090585590413027.png">Maven Analytics</a>
 
 <!--## Questions Answered
 
