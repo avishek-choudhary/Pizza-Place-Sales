@@ -34,7 +34,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-This dataset was downloaded from Maven Analytics: https://maven-datasets.s3.amazonaws.com/Pizza+Place+Sales/Pizza+Place+Sales.zip
+This dataset was downloaded from Maven Analytics click <a href="https://maven-datasets.s3.amazonaws.com/Pizza+Place+Sales/Pizza+Place+Sales.zip">here</a> to download.
 
 ## License
 
